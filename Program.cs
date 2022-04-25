@@ -16,7 +16,7 @@ namespace Collection
            
             bool ID_Existe;  
 
-            
+            // coucou Pascal
             List<Carrefour> unCarrefour = new List<Carrefour>()
           {
               new Carrefour(1, "Pâtes", 1.5, 500),
